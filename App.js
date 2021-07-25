@@ -1,4 +1,5 @@
 //master branch test
+//veyis branch oluşturuldu
 import React, {Component, useEffect} from 'react';
 import {
   View,
